@@ -1,6 +1,12 @@
 {
     "cSpell.words": [
+        "chatgpt",
         "enapi",
-        "openapi"
+        "fastapi",
+        "finetuned",
+        "openapi",
+        "pydantic",
+        "samplefileupload",
+        "Uvicorn"
     ]
 }

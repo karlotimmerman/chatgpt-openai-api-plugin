@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "pluginName": {
-    "humanReadable": "OpenAI API Plugin",
+    "humanReadable": "chatgpt-openai-api-plugin",
     "forModel": "openai_api"
   },
   "pluginDescription": {
@@ -13,13 +13,14 @@
   },
   "apiDetails": {
     "apiType": "openapi",
-    "apiUrl": "http://localhost:8080/openapi.json",
+    "apiUrl": "http://localhost:8000/openapi.json",
     "userAuthenticated": false
   },
-  "logoUrl": "localhost:8080/.well-known/logo.jpg",
+  "logoUrl": "localhost:8000/.well-known/logo.jpg",
   "contact": {
     "email": "info@skydust.io"
   },
   "legal": {
-    "infoUrl": "http://www.skydust.io/legal
+    "infoUrl": "http://www.skydust.io/legal"
+  }
 }
